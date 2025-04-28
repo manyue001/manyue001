@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manyue001/manyue001/output/github-contribution-grid-snake-dark.svg" alt="stars" width="100%" height="300px"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="300px" alt="流星雨背景" />
 </p>
 
 
