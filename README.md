@@ -1,14 +1,5 @@
 # 👋 嗨，我是 manyue001
 
-<!-- 打字机动态文字效果 -->
-<p align="center">
-  <a href="https://github.com/manyue001">
-    <img src="https://api.ghprofile.me/readme-typing?lines=Welcome+to+my+GitHub!;I+love+optimization+algorithms;Machine+Learning+enthusiast;Always+learning+new+things!&center=true&width=500&height=50">
-  </a>
-</p>
-
----
-
 ## 🔥 关于我
 
 - 🔧 目前正在进行 **ADTSA**、**AMTSA**、**TSA算法** 的改进
