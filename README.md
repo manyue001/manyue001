@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm manyue001</h1>
 <h3 align="center">A passionate optimization algorithm learner 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manyue001&label=Profile%20views&color=0e75b6&style=flat" alt="manyue001" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=manyue001&label=Profile%20views&color=0e75b6&style=flat" alt="manyue001" /> 
+</p>
 
 - 🔭 I’m currently working on **ADTSA、AMTSA、TSA算法改进**
-
 - 🌱 I’m currently learning **Machine Learning and Advanced Optimization**
-
 - 📫 How to reach me **manyue001@gmail.com**
-
 - ⚡ Fun fact **I love coding + drawing!**
 
 ---
@@ -25,7 +24,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+<h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=manyue001&show_icons=true&theme=tokyonight" alt="manyue001" />
