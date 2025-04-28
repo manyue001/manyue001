@@ -1,17 +1,15 @@
 # 👋 嗨，我是 manyue001
 
-充满激情的优化算法学习者 🚀
+优化算法学习者 🚀
 
-<p align="center">
-  <img src="https://github.com/manyue001/manyue001/blob/main/profile.png" alt="manyue001" />
-</p>
+
 
 ## 🔥 关于我
 
 - 🔧 目前正在进行 **ADTSA**、**AMTSA**、**TSA算法** 的改进
 - 🌱 目前在学习 **机器学习** 和 **高级优化**
 - 📫 如何联系我：manyue001@gmail.com
-- 🎨 有趣的是：**我喜欢编程 + 绘画！**
+
 
 ---
 
