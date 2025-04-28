@@ -24,15 +24,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="300px" alt="流星雨背景" />
+</p>
+
 
 ---
 
 <p align="center">
   ✨ 欢迎来到我的世界！一起学习进步！✨
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="300px" alt="流星雨背景" />
 </p>
 
 
