@@ -26,19 +26,7 @@
   <img src="https://img.shields.io/badge/Optimization-005571?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
----
 
-## 💻 GitHub 统计信息：
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyue001&show_icons=true&theme=transparent" alt="manyue001's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyue001&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
-
----
 
 ## 🐍 贡献图：
 
