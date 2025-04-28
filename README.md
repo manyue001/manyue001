@@ -40,7 +40,7 @@
 
 ---
 
-## 🐍 蛇吃我的贡献图：
+## 🐍 贡献图：
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
