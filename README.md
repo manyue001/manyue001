@@ -2,10 +2,9 @@
 
 <!-- 打字机动态文字效果 -->
 <p align="center">
-  <a href="https://github.com/manyue001">
-  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub!;I+love+optimization+algorithms;Machine+Learning+enthusiast;Always+learning+new+things!&center=true&width=500&height=50">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?lines=Hello+World!;Welcome+to+my+GitHub!;Enjoy+Coding!&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
+
 
 ---
 
