@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on **ADTSA、AMTSA、TSA算法改进**
 - 🌱 I’m currently learning **Machine Learning and Advanced Optimization**
 - 📫 How to reach me **manyue001@gmail.com**
-- ⚡ Fun fact **I love coding + drawing!**
 
 ---
 
