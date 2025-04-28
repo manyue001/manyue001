@@ -31,6 +31,9 @@
   ✨ 欢迎来到我的世界！一起学习进步！✨
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manyue001/manyue001/output/github-contribution-grid-snake-dark.svg" alt="stars" width="100%" height="300px"/>
+</p>
 
 
 <p align="center">
