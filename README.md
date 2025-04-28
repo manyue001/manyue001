@@ -21,7 +21,13 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
+
 <p align="left">
+  <img src="https://github-readme-stats-kg3dkhfbj-manyues-projects.vercel.app/api?username=manyue001&show_icons=true&theme=tokyonight" alt="manyue001" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-kg3dkhfbj-manyues-projects.vercel.app/api?username=manyue001&theme=tokyonight&hide_border=false&count_private=true&layout=compact" alt="manyue001" />
 </p>
 
 ---
