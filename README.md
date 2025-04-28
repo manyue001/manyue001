@@ -34,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyue001&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
+
 ---
 
 ## 🐍 蛇吃我的贡献图：
@@ -41,6 +42,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 ---
 
