@@ -33,6 +33,8 @@
 
 ---
 
-# 🐍 蛇吃我的贡献图
+<h3 align="left">🐍 蛇吃我的贡献图：</h3>
 
-![snake gif](https://github.com/manyue001/manyue001/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/manyue001/manyue001/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake gif" />
+</p>
