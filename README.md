@@ -20,4 +20,13 @@
 
 ---
 
-<h3 align="left
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+（此处暂时空着或者自己加静态图）
+</p>
+
+---
+
+# 🐍 Snake eating my contributions graph
+
+![snake gif](https://github.com/manyue001/manyue001/blob/output/github-contribution-grid-snake.gif)
